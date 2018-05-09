@@ -1,9 +1,7 @@
 
 使用方法如下：
-#### 首先请确保PHP环境OK
-
 #### 1.下载该项目
-git clone 
+git clone https://github.com/EighthRoute520/blog.git
 
 
 #### 2.配置域名
